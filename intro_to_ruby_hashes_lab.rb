@@ -11,7 +11,6 @@ def monopoly_with_second_tier
     }
     hash
 end
-end
 
 def monopoly_with_third_tier
   second = monopoly_with_second_tier
